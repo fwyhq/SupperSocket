@@ -1,0 +1,27 @@
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketEngine\bin\Debug\net40\SuperSocket.SocketEngine.dll
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketEngine\bin\Debug\net40\SuperSocket.SocketEngine.pdb
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketEngine\obj\Debug\net40\SuperSocket.SocketEngine.csproj.CoreCompileInputs.cache
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketEngine\obj\Debug\net40\SuperSocket.SocketEngine.AssemblyInfoInputs.cache
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketEngine\obj\Debug\net40\SuperSocket.SocketEngine.AssemblyInfo.cs
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketEngine\obj\Debug\net40\SuperSocket.SocketEngine.dll
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketEngine\obj\Debug\net40\SuperSocket.SocketEngine.pdb
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketEngine\obj\Debug\net40\SuperSocket.SocketEngine.csprojResolveAssemblyReference.cache
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketEngine\bin\Debug\net40\log4net.dll
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketEngine\bin\Debug\net40\SuperSocket.Common.dll
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketEngine\bin\Debug\net40\SuperSocket.SocketBase.dll
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketEngine\bin\Debug\net40\SuperSocket.SocketBase.pdb
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketEngine\bin\Debug\net40\SuperSocket.Common.pdb
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketEngine\bin\Debug\net40\SuperSocket.SocketEngine.dll
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketEngine\bin\Debug\net40\SuperSocket.SocketEngine.pdb
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketEngine\bin\Debug\net40\log4net.dll
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketEngine\bin\Debug\net40\SuperSocket.Common.dll
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketEngine\bin\Debug\net40\SuperSocket.SocketBase.dll
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketEngine\bin\Debug\net40\SuperSocket.SocketBase.pdb
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketEngine\bin\Debug\net40\SuperSocket.Common.pdb
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketEngine\obj\Debug\net40\SuperSocket.SocketEngine.csprojAssemblyReference.cache
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketEngine\obj\Debug\net40\SuperSocket.SocketEngine.csproj.CoreCompileInputs.cache
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketEngine\obj\Debug\net40\SuperSocket.SocketEngine.AssemblyInfoInputs.cache
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketEngine\obj\Debug\net40\SuperSocket.SocketEngine.AssemblyInfo.cs
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketEngine\obj\Debug\net40\SuperSocket.SocketEngine.csproj.CopyComplete
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketEngine\obj\Debug\net40\SuperSocket.SocketEngine.dll
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketEngine\obj\Debug\net40\SuperSocket.SocketEngine.pdb

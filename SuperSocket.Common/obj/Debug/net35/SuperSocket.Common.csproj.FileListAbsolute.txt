@@ -1,0 +1,4 @@
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.Common\obj\Debug\net35\SuperSocket.Common.csprojResolveAssemblyReference.cache
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.Common\obj\Debug\net35\SuperSocket.Common.csproj.CoreCompileInputs.cache
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.Common\obj\Debug\net35\SuperSocket.Common.AssemblyInfoInputs.cache
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.Common\obj\Debug\net35\SuperSocket.Common.AssemblyInfo.cs

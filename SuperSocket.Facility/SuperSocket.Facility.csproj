@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net40;net45;</TargetFrameworks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SuperSocket.Common\SuperSocket.Common.csproj" />
+    <ProjectReference Include="..\SuperSocket.SocketBase\SuperSocket.SocketBase.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,27 @@
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketBase\bin\Debug\net45\SuperSocket.SocketBase.dll
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketBase\bin\Debug\net45\SuperSocket.SocketBase.pdb
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketBase\obj\Debug\net45\SuperSocket.SocketBase.csprojResolveAssemblyReference.cache
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketBase\obj\Debug\net45\SuperSocket.SocketBase.csproj.CoreCompileInputs.cache
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketBase\obj\Debug\net45\SuperSocket.SocketBase.AssemblyInfoInputs.cache
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketBase\obj\Debug\net45\SuperSocket.SocketBase.AssemblyInfo.cs
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketBase\obj\Debug\net45\SuperSocket.SocketBase.dll
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketBase\obj\Debug\net45\SuperSocket.SocketBase.pdb
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketBase\bin\Debug\net45\log4net.dll
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketBase\bin\Debug\net45\PCLExt.AppDomain.Abstractions.dll
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketBase\bin\Debug\net45\PCLExt.AppDomain.dll
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketBase\bin\Debug\net45\SuperSocket.Common.dll
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.SocketBase\bin\Debug\net45\SuperSocket.Common.pdb
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketBase\obj\Debug\net45\SuperSocket.SocketBase.dll
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketBase\obj\Debug\net45\SuperSocket.SocketBase.pdb
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketBase\bin\Debug\net45\SuperSocket.SocketBase.dll
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketBase\bin\Debug\net45\SuperSocket.SocketBase.pdb
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketBase\bin\Debug\net45\log4net.dll
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketBase\bin\Debug\net45\PCLExt.AppDomain.Abstractions.dll
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketBase\bin\Debug\net45\PCLExt.AppDomain.dll
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketBase\bin\Debug\net45\SuperSocket.Common.dll
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketBase\bin\Debug\net45\SuperSocket.Common.pdb
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketBase\obj\Debug\net45\SuperSocket.SocketBase.csprojAssemblyReference.cache
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketBase\obj\Debug\net45\SuperSocket.SocketBase.csproj.CoreCompileInputs.cache
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketBase\obj\Debug\net45\SuperSocket.SocketBase.AssemblyInfoInputs.cache
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketBase\obj\Debug\net45\SuperSocket.SocketBase.AssemblyInfo.cs
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.SocketBase\obj\Debug\net45\SuperSocket.SocketBase.csproj.CopyComplete

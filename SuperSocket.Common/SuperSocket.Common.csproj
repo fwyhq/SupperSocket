@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net40;net45;</TargetFrameworks>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!--<Compile Include="..\..\Common\*.cs" />-->
+    <!--<Compile Include="..\..\Common\ArraySegmentEx.cs;..\..\Common\ArraySegmentList.cs;..\..\Common\SearchMarkState.cs" />
+    <Compile Include="..\..\Common\ArraySegmentList.cs" />
+    <Compile Include="..\..\Common\SearchMarkState.cs" />-->
+  </ItemGroup>
+  
+  <!--<ItemGroup>
+    <Compile Remove="Class1.cs" />
+  </ItemGroup>-->
+
+  <ItemGroup Condition="'$(TargetFramework)' == 'netstandard2.0'">
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.4.1" />
+  </ItemGroup>
+
+  <ItemGroup Condition="'$(TargetFramework)' == 'net40' OR '$(TargetFramework)' == 'net45'">
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Configuration" />
+  </ItemGroup>
+
+  <ItemGroup Condition="'$(TargetFramework)' == 'net45'">
+    <PackageReference Include="PCLExt.AppDomain">
+      <Version>1.0.13</Version>
+    </PackageReference>
+  </ItemGroup>
+</Project>

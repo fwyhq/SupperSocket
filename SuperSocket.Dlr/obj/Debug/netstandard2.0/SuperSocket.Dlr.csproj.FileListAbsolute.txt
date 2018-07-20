@@ -1,0 +1,21 @@
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.Dlr\bin\Debug\netstandard2.0\SuperSocket.Dlr.deps.json
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.Dlr\bin\Debug\netstandard2.0\SuperSocket.Dlr.dll
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.Dlr\bin\Debug\netstandard2.0\SuperSocket.Dlr.pdb
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.Dlr\obj\Debug\netstandard2.0\SuperSocket.Dlr.csprojResolveAssemblyReference.cache
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.Dlr\obj\Debug\netstandard2.0\SuperSocket.Dlr.csproj.CoreCompileInputs.cache
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.Dlr\obj\Debug\netstandard2.0\SuperSocket.Dlr.AssemblyInfoInputs.cache
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.Dlr\obj\Debug\netstandard2.0\SuperSocket.Dlr.AssemblyInfo.cs
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.Dlr\obj\Debug\netstandard2.0\SuperSocket.Dlr.dll
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.Dlr\obj\Debug\netstandard2.0\SuperSocket.Dlr.pdb
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.Dlr\bin\Debug\netstandard2.0\Microsoft.Scripting.dll
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.Dlr\bin\Debug\netstandard2.0\SuperSocket.Common.dll
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.Dlr\bin\Debug\netstandard2.0\SuperSocket.SocketBase.dll
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.Dlr\bin\Debug\netstandard2.0\SuperSocket.SocketBase.pdb
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.Dlr\bin\Debug\netstandard2.0\SuperSocket.Common.pdb
+D:\Github\SuperSocket\SuperSocket.2017\SuperSocket.Dlr\bin\Debug\netstandard2.0\Microsoft.Scripting.xml
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.Dlr\obj\Debug\netstandard2.0\SuperSocket.Dlr.csprojAssemblyReference.cache
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.Dlr\obj\Debug\netstandard2.0\SuperSocket.Dlr.csproj.CoreCompileInputs.cache
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.Dlr\obj\Debug\netstandard2.0\SuperSocket.Dlr.AssemblyInfoInputs.cache
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.Dlr\obj\Debug\netstandard2.0\SuperSocket.Dlr.AssemblyInfo.cs
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.Dlr\obj\Debug\netstandard2.0\SuperSocket.Dlr.dll
+C:\Users\leowfeng\Documents\Tencent Files\272732127\FileRecv\SuperSocket.2017\SuperSocket.Dlr\obj\Debug\netstandard2.0\SuperSocket.Dlr.pdb
